@@ -1,0 +1,15 @@
+{
+  "name": "same_yoon",
+  "version": "1.0.0",
+  "description": "Project Innov_Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0"
+  }
+}
